@@ -1,0 +1,15 @@
+C:\Users\wangx\Documents\GitHub\Gpro_audio_switch\test\bin\Debug\net8.0-windows\HidPPTest.exe
+C:\Users\wangx\Documents\GitHub\Gpro_audio_switch\test\bin\Debug\net8.0-windows\HidPPTest.deps.json
+C:\Users\wangx\Documents\GitHub\Gpro_audio_switch\test\bin\Debug\net8.0-windows\HidPPTest.runtimeconfig.json
+C:\Users\wangx\Documents\GitHub\Gpro_audio_switch\test\bin\Debug\net8.0-windows\HidPPTest.dll
+C:\Users\wangx\Documents\GitHub\Gpro_audio_switch\test\bin\Debug\net8.0-windows\HidPPTest.pdb
+C:\Users\wangx\Documents\GitHub\Gpro_audio_switch\test\obj\Debug\net8.0-windows\HidPPTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wangx\Documents\GitHub\Gpro_audio_switch\test\obj\Debug\net8.0-windows\HidPPTest.AssemblyInfoInputs.cache
+C:\Users\wangx\Documents\GitHub\Gpro_audio_switch\test\obj\Debug\net8.0-windows\HidPPTest.AssemblyInfo.cs
+C:\Users\wangx\Documents\GitHub\Gpro_audio_switch\test\obj\Debug\net8.0-windows\HidPPTest.csproj.CoreCompileInputs.cache
+C:\Users\wangx\Documents\GitHub\Gpro_audio_switch\test\obj\Debug\net8.0-windows\HidPPTest.sourcelink.json
+C:\Users\wangx\Documents\GitHub\Gpro_audio_switch\test\obj\Debug\net8.0-windows\HidPPTest.dll
+C:\Users\wangx\Documents\GitHub\Gpro_audio_switch\test\obj\Debug\net8.0-windows\refint\HidPPTest.dll
+C:\Users\wangx\Documents\GitHub\Gpro_audio_switch\test\obj\Debug\net8.0-windows\HidPPTest.pdb
+C:\Users\wangx\Documents\GitHub\Gpro_audio_switch\test\obj\Debug\net8.0-windows\HidPPTest.genruntimeconfig.cache
+C:\Users\wangx\Documents\GitHub\Gpro_audio_switch\test\obj\Debug\net8.0-windows\ref\HidPPTest.dll

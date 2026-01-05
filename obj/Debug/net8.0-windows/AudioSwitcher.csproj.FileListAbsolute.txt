@@ -1,0 +1,15 @@
+c:\Users\wangx\Documents\GitHub\Gpro_audio_switch\bin\Debug\net8.0-windows\GProAudioSwitcher.exe
+c:\Users\wangx\Documents\GitHub\Gpro_audio_switch\bin\Debug\net8.0-windows\GProAudioSwitcher.deps.json
+c:\Users\wangx\Documents\GitHub\Gpro_audio_switch\bin\Debug\net8.0-windows\GProAudioSwitcher.runtimeconfig.json
+c:\Users\wangx\Documents\GitHub\Gpro_audio_switch\bin\Debug\net8.0-windows\GProAudioSwitcher.dll
+c:\Users\wangx\Documents\GitHub\Gpro_audio_switch\bin\Debug\net8.0-windows\GProAudioSwitcher.pdb
+c:\Users\wangx\Documents\GitHub\Gpro_audio_switch\obj\Debug\net8.0-windows\AudioSwitcher.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wangx\Documents\GitHub\Gpro_audio_switch\obj\Debug\net8.0-windows\AudioSwitcher.AssemblyInfoInputs.cache
+c:\Users\wangx\Documents\GitHub\Gpro_audio_switch\obj\Debug\net8.0-windows\AudioSwitcher.AssemblyInfo.cs
+c:\Users\wangx\Documents\GitHub\Gpro_audio_switch\obj\Debug\net8.0-windows\AudioSwitcher.csproj.CoreCompileInputs.cache
+c:\Users\wangx\Documents\GitHub\Gpro_audio_switch\obj\Debug\net8.0-windows\AudioSwitcher.sourcelink.json
+c:\Users\wangx\Documents\GitHub\Gpro_audio_switch\obj\Debug\net8.0-windows\GProAudioSwitcher.dll
+c:\Users\wangx\Documents\GitHub\Gpro_audio_switch\obj\Debug\net8.0-windows\refint\GProAudioSwitcher.dll
+c:\Users\wangx\Documents\GitHub\Gpro_audio_switch\obj\Debug\net8.0-windows\GProAudioSwitcher.pdb
+c:\Users\wangx\Documents\GitHub\Gpro_audio_switch\obj\Debug\net8.0-windows\AudioSwitcher.genruntimeconfig.cache
+c:\Users\wangx\Documents\GitHub\Gpro_audio_switch\obj\Debug\net8.0-windows\ref\GProAudioSwitcher.dll

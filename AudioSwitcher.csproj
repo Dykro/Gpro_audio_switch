@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <AssemblyName>GProAudioSwitcher</AssemblyName>
+    <RootNamespace>AudioSwitcher</RootNamespace>
+    <Version>1.0.0</Version>
+    <Authors>GPro Audio Switcher</Authors>
+    <Description>Automatically switch audio devices when Logitech G PRO 2 headset connects/disconnects</Description>
+    
+    <!-- Single file publish settings - only apply on publish -->
+    <PublishSingleFile>true</PublishSingleFile>
+    <SelfContained>false</SelfContained>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'">
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+  </PropertyGroup>
+
+  <!-- Exclude test directory from compilation -->
+  <ItemGroup>
+    <Compile Remove="test\**" />
+    <None Remove="test\**" />
+  </ItemGroup>
+</Project>
