@@ -171,7 +171,7 @@ dotnet publish -c Release -r win-x64 --self-contained false
 
 ## 许可证
 
-MIT License
+AGPL-3.0 许可
 
 ## 更新日志
 
