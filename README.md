@@ -18,7 +18,6 @@
 - Windows 10/11
 - .NET 8.0 运行时
 - Logitech G PRO X 2 无线耳机（使用 USB 接收器）
-- （可选）Logitech G HUB（程序可独立工作，无需 G HUB）
 
 ## 安装
 
